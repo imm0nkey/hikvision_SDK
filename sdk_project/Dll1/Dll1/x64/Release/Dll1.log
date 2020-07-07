@@ -1,0 +1,10 @@
+﻿  HKIPcamera.cpp
+d:\applications\hikvision_sdk\opencv-swig\hkipcamera.cpp(202): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+  d:\applications\hikvision_sdk\opencv-swig\hkipcamera.cpp(202): note: 请考虑在格式字符串中使用“%lld”
+  d:\applications\hikvision_sdk\opencv-swig\hkipcamera.cpp(202): note: 请考虑在格式字符串中使用“%Id”
+  d:\applications\hikvision_sdk\opencv-swig\hkipcamera.cpp(202): note: 请考虑在格式字符串中使用“%I64d”
+    正在创建库 D:\Applications\hikvision_SDK\sdk_project\Dll1\x64\Release\Dll1.lib 和对象 D:\Applications\hikvision_SDK\sdk_project\Dll1\x64\Release\Dll1.exp
+  正在生成代码
+  All 9049 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Dll1.vcxproj -> D:\Applications\hikvision_SDK\sdk_project\Dll1\x64\Release\Dll1.dll
